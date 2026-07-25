@@ -7,6 +7,7 @@
 </p>
 
 ---
+<img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/6733f145-9b17-4539-9d80-8aecb4e677ed" />
 
 ### 👨‍🎓 About Me
 
@@ -22,6 +23,7 @@
 
 ### 🏫 Education
 
+- 🎓 **MSc**,Computer and Information Technology — *University of Pennsylvania*
 - 🎓 **MSc**, Hydroinformatics: Modelling & Information Systems for Water Management — *IHE Delft Institute for Water Education*
 - 🎓 **MSc**, Civil Engineering (Structural Option) — *Pan African University for Basic Sciences and Technology*
 - 🎓 **BSc**, Civil Engineering — *University of Burundi*
