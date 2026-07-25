@@ -1,13 +1,15 @@
 <h1 align="center">Hi there, I'm Derrick Mirindi 👋</h1>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?hl=en&user=IIQZAlgAAAAJ&view_op=list_works&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://scholar.google.com/citations?hl=nl&user=lIQZAIgAAAAJ&view_op=list_works&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/derrick-mirindi-18b538b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:demir1@morgan.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.researchgate.net/profile/Derrick-Mirindi-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="mailto:mirindiderick@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
-<h1 align="center"><img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/6733f145-9b17-4539-9d80-8aecb4e677ed" />
+
+<h1 align="center"><img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/6733f145-9b17-4539-9d80-8aecb4e677ed" /></h1>
 
 ### 👨‍🎓 About Me
 
@@ -23,7 +25,7 @@
 
 ### 🏫 Education
 
-- 🎓 **MSc**,Computer and Information Technology — *University of Pennsylvania*
+- 🎓 **MSc**, Computer and Information Technology — *University of Pennsylvania*
 - 🎓 **MSc**, Hydroinformatics: Modelling & Information Systems for Water Management — *IHE Delft Institute for Water Education*
 - 🎓 **MSc**, Civil Engineering (Structural Option) — *Pan African University for Basic Sciences and Technology*
 - 🎓 **BSc**, Civil Engineering — *University of Burundi*
