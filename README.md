@@ -25,10 +25,11 @@
 
 ### 🏫 Education
 
-- 🎓 **MSc**, Computer and Information Technology — *University of Pennsylvania*
-- 🎓 **MSc**, Hydroinformatics: Modelling & Information Systems for Water Management — *IHE Delft Institute for Water Education*
-- 🎓 **MSc**, Civil Engineering (Structural Option) — *Pan African University for Basic Sciences and Technology*
-- 🎓 **BSc**, Civil Engineering — *University of Burundi*
+- 🎓 **PhD**, Architecture — *Morgan State University*, USA
+- 🎓 **MSc**, Computer and Information Technology — *University of Pennsylvania*, USA
+- 🎓 **MSc**, Hydroinformatics: Modelling & Information Systems for Water Management — *IHE Delft Institute for Water Education*, Holland
+- 🎓 **MSc**, Civil Engineering (Structural Option) — *Pan African University for Basic Sciences and Technology*, Kenya
+- 🎓 **BSc**, Civil Engineering — *University of Burundi*, Burundi
 
 ---
 
